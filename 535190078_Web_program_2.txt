@@ -1,0 +1,63 @@
+Nama	:Berliano Catur Matahara
+Nim	:535190078
+
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
+      table {
+        border-collapse: collapse;
+      }
+      td,
+      th {
+        padding: 10px;
+        border-bottom: 2px solid #8ebf42;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <table border="1">
+  <tr>
+    <th>No</th>
+    <th>Nomor Customer</th>
+    <th>Nama Lengkap</th>
+    <th>Email</th>
+    <th>Pengeluaran PerBulan</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>0889***********</td>
+    <td>Jean Nero</td>
+    <td>Jean@gmail.com</td>
+    <td>Rp. 19.000.000</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>0872***********</td>
+    <td>Leti Gare</td>
+    <td>Leti@gmail.com</td>
+    <td>Rp. 5.000.000</td>
+  </tr>
+   <tr>
+    <td>3</td>
+    <td>0872***********</td>
+    <td>Nobe Turu</td>
+    <td>Leti@gmail.com</td>
+    <td>Rp. 10.000.000</td>
+  </tr>
+   <tr>
+    <td>4</td>
+    <td>0872***********</td>
+    <td>Lychee Rediy</td>
+    <td>Leti@gmail.com</td>
+    <td>Rp. 9.000.000</td>
+  </tr>
+   <tr>
+    <td>5</td>
+    <td>0872***********</td>
+    <td>Corel Draw</td>
+    <td>Leti@gmail.com</td>
+    <td>Rp. 7.000.000</td>
+  </tr>
+</table>
